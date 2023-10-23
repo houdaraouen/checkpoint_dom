@@ -1,0 +1,42 @@
+.container{
+    margin: auto;
+    margin-top: 20px;
+    /* border: 3px solid black; */
+}
+.col-md-, .col-lg-4{
+    margin-bottom: 20px;
+}
+.stye{
+    font-size: 18px !important;
+    color: black !important;
+}
+.num{
+    width: 80px;
+    height: 30px;
+    border: 3px solid black;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 5px;
+}
+.uk-border-circle{
+    width: 100px !important;
+    height: 100px !important;
+}
+.fa-cart-arrow-down{
+    color: white;
+    font-size: 50px;
+    cursor: pointer;
+    padding-left: 20px;
+}
+.card img{
+    width: 100px;
+    height: 80px;
+    object-fit: cover;
+}
+.like-button .heart-icon{
+    height: 100px;
+    width: 100px;
+    background: url("c:\Users\DELL\Desktop\checkpoint_dom\téléchargement (13).jpg");
+    background-position: right;
+    color: red;
+}
